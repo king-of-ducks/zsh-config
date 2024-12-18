@@ -1,6 +1,10 @@
 # Hello
 This is my `zsh` config. Feel free to use it, copy and modify as you want
-<br>
+
+# Requirements 
+* Zsh (https://www.zsh.org)
+* Oh My Zsh (https://ohmyz.sh)
+* Git (https://git-scm.com)
 
 # Installation (Unix)
 Clone this repository to your home directory:
